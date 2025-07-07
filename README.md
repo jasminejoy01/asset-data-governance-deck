@@ -2,7 +2,7 @@
 
 # Asset Data Governance & Quality Strategy
 
-This presentation was created for a data specialist application to the City of Toronto. It demonstrates my approach to:
+This presentation was created for a data specialist application. It demonstrates my approach to:
 
 - Structuring asset hierarchies and metadata for scalable use
 - Designing dimensional data models (STAR schema)
